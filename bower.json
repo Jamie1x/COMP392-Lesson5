@@ -1,0 +1,25 @@
+{
+  "name": "COMP392-Lesson5",
+  "homepage": "https://github.com/Jamie1x/COMP392-Lesson5",
+  "authors": [
+    "Jamie1x <jkennedy1x@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dat-gui": "~0.5.1",
+    "stats.js": "*",
+    "three.js": "threejs#*",
+    "threex.colliders": "*"
+  }
+}
